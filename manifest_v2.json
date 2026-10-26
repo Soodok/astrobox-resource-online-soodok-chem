@@ -1,0 +1,61 @@
+{
+  "item": {
+    "id": "online.soodok.chem",
+    "restype": "quick_app",
+    "name": "化学实验室",
+    "description": "做化学题卡在配平上？化学实验室 —— 3182 种物质 + 4463 个反应装进手环，\n还能自己搭实验：选物质、配条件，方程式自动配平，现象与安全提示一起给。\n\n\n【查得到】\n\n· 3182 种物质：元素、单质、氧化物、酸碱盐、有机物、矿物、配合物、俗名全覆盖\n· 俗名也能查：输「烧碱」出氢氧化钠，输「胆矾」出五水硫酸铜，输「干冰」出二氧化碳\n· 化学式也能查：直接输 HCl、NaOH、CuSO4 都能命中\n· 4463 个反应 + 485 个实验条目：方程式、离子检验、气体制备、工业制法、实验操作与安全\n\n\n【实验室会算】\n\n· 选物质 → 配条件 → 出结果：最多 6 种物质同时参与，条件最多 4 个\n· 7 种标准条件：常温 / 加热 / 点燃 / 高温 / 催化剂 / 光照 / 电解\n· 自动配平：不用自己算系数，方程式直接给到\n· 不反应也讲道理：不是干巴巴一句「不能反应」——\n  会告诉你「铜的活动性排在氢之后，不能与稀酸反应放出氢气」，并附金属活动性顺序作依据\n· 条件不选就是不限制：宽松兜底，不会因为忘记选条件就查不到\n\n\n【用得上的场合】\n\n· 写作业、做练习：配平卡住、现象想不起来，抬手就查\n· 备考复习：元素化合物性质、方程式、实验操作，随时翻\n· 老师备课：出题找反应、找现象，随手就有\n· 生活好奇：洁厕灵和84消毒液能不能混着用，查一下就知道\n\n\n付费，不联网，不收集任何数据。输入367017装上可先免费用 1 小时。\n爱发电购买：https://ifdian.net/a/114514soodok",
+    "preview": [
+      "media/展示-04-结果.jpg",
+      "media/展示-03-选择物质.jpg",
+      "media/展示-02-实验室.jpg",
+      "media/展示-01-首页.jpg"
+    ],
+    "icon": "media/化学实验室-图标-192.png",
+    "cover": "media/化学实验室-头图-实机版-1200x800.jpg",
+    "author": [
+      {
+        "name": "Soodok",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/online.soodok.chem.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/online.soodok.chem.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/online.soodok.chem.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/online.soodok.chem.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/online.soodok.chem.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/online.soodok.chem.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/online.soodok.chem.release.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
